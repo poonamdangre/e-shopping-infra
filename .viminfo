@@ -10,11 +10,20 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
 :x!
-|2,0,1674136836,,"x!"
+|2,0,1677069252,,"x!"
+:X
+|2,0,1675075733,,"X"
+:X!
+|2,0,1675075724,,"X!"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1676640820,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -25,24 +34,246 @@
 # Registers:
 
 # File marks:
-'0  1  19  ~/devops-b26/devops-b26-mf/next.txt
-|4,48,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
-'1  2  9  ~/devops-b26/till.txt
-|4,49,2,9,1674126761,"~/devops-b26/till.txt"
+'0  1  26  ~/main.tf
+|4,48,1,26,1677069252,"~/main.tf"
+'1  3  0  ~/provider.tf
+|4,49,3,0,1677068927,"~/provider.tf"
+'2  8  0  ~/node_modules
+|4,50,8,0,1676640825,"~/node_modules"
+'3  52  0  /etc/sudoers
+|4,51,52,0,1675075749,"/etc/sudoers"
+'4  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,52,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+'5  2  9  ~/devops-b26/till.txt
+|4,53,2,9,1674126761,"~/devops-b26/till.txt"
 
 # Jumplist (newest first):
+-'  1  26  ~/main.tf
+|4,39,1,26,1677069252,"~/main.tf"
+-'  3  0  ~/provider.tf
+|4,39,3,0,1677068927,"~/provider.tf"
+-'  3  0  ~/provider.tf
+|4,39,3,0,1677068927,"~/provider.tf"
+-'  1  0  ~/provider.tf
+|4,39,1,0,1677068869,"~/provider.tf"
+-'  1  0  ~/provider.tf
+|4,39,1,0,1677068869,"~/provider.tf"
+-'  8  0  ~/node_modules
+|4,39,8,0,1676640825,"~/node_modules"
+-'  8  0  ~/node_modules
+|4,39,8,0,1676640825,"~/node_modules"
+-'  8  0  ~/node_modules
+|4,39,8,0,1676640825,"~/node_modules"
+-'  8  0  ~/node_modules
+|4,39,8,0,1676640825,"~/node_modules"
+-'  52  0  /etc/sudoers
+|4,39,52,0,1675075749,"/etc/sudoers"
+-'  52  0  /etc/sudoers
+|4,39,52,0,1675075749,"/etc/sudoers"
+-'  52  0  /etc/sudoers
+|4,39,52,0,1675075749,"/etc/sudoers"
+-'  52  0  /etc/sudoers
+|4,39,52,0,1675075749,"/etc/sudoers"
+-'  52  0  /etc/sudoers
+|4,39,52,0,1675075749,"/etc/sudoers"
+-'  52  0  /etc/sudoers
+|4,39,52,0,1675075749,"/etc/sudoers"
+-'  52  0  /etc/sudoers
+|4,39,52,0,1675075749,"/etc/sudoers"
+-'  52  0  /etc/sudoers
+|4,39,52,0,1675075749,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1675075625,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1675075625,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1675075625,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1675075625,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1675075625,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1675075625,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1675075625,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1675075625,"/etc/sudoers"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
+-'  1  19  ~/devops-b26/devops-b26-mf/next.txt
+|4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
 -'  1  19  ~/devops-b26/devops-b26-mf/next.txt
 |4,39,1,19,1674136836,"~/devops-b26/devops-b26-mf/next.txt"
 -'  2  9  ~/devops-b26/till.txt
 |4,39,2,9,1674126761,"~/devops-b26/till.txt"
 -'  2  9  ~/devops-b26/till.txt
 |4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  2  9  ~/devops-b26/till.txt
+|4,39,2,9,1674126761,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
+-'  1  0  ~/devops-b26/till.txt
+|4,39,1,0,1674126747,"~/devops-b26/till.txt"
 -'  1  0  ~/devops-b26/till.txt
 |4,39,1,0,1674126747,"~/devops-b26/till.txt"
 -'  1  0  ~/devops-b26/till.txt
 |4,39,1,0,1674126747,"~/devops-b26/till.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/main.tf
+	*	1677069248	0
+	"	1	26
+	^	1	27
+	.	2	32
+	+	3	0
+	+	2	32
+
+> ~/provider.tf
+	*	1677068925	0
+	"	3	0
+	^	3	1
+	.	3	0
+	+	1	16
+	+	2	20
+	+	3	0
+
+> /etc/sudoers
+	*	1675075738	0
+	"	52	0
+	^	51	30
+	.	51	29
+	+	51	29
 
 > ~/devops-b26/devops-b26-mf/next.txt
 	*	1674136833	0

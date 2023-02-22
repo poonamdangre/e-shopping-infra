@@ -1,0 +1,1 @@
+{"source":"OKzXFeUFjaj5SCp6OFbcikSFMJwnePbXz4sz4oJGKRqoO1z3xmlNu7uc430973UHOGIPeBlWuj+4Or7bPZMIVg==","name":"resolve-require","dependency":"cwd","title":"Depends on vulnerable versions of cwd","url":null,"severity":"low","versions":["0.2.0"],"vulnerableVersions":["0.2.0"],"range":"*","id":"3T1Rhj6fah9kX7AJR8WPnEo0XwZBNMYUyy2AGa6eq50dhFP0DYh7YukGxuCHH4HWaWupir4c6yBZVW1YrcOpfg=="}

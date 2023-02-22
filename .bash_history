@@ -655,3 +655,187 @@ ls
 cd ecom-microfrontend/
 ls
 touch pipeline.groovy
+ls
+cd /home/ubuntu/devops-b26/
+ls
+cd devops-microfrontend/
+ls
+cp ecom-microfrontend/ /home/ubuntu
+cp -rfv ecom-microfrontend/ /home/ubuntu
+cd ..
+ls
+cd devops-microfrontend/ecom-microfrontend/
+ls
+cp Dockerfile README.md docker-compose.yml  /home/ubuntu/
+cd
+ls
+cd /home/ubuntu/
+ls
+rm -rfv devops-b26/ 
+ls
+rm -rfv ecom-microfrontend/
+ls
+cd
+ls
+cd /devops-b26
+cd devops-b26
+ls
+cd ecom-microfrontend/
+ls
+cd nginx/
+ls
+cd
+cd devops-b26/ecom-microfrontend/
+ls
+cp package.json  tsconfig.json upgrade.sh  /home/ubuntu/
+cp LICENSE angular.json package-lock.json /home/ubuntu/
+cp tsconfig.base.json  tslint.json  /home/ubuntu/
+cd nginx/
+ls
+cd
+ls
+cd devops-b26/ecom-microfrontend/
+ls
+cd nginx/
+touch nginx
+ls
+cp default.conf nginx-dev.conf  nginx-prod.conf  nginx-test.conf proxy-settings.conf nginx/
+cp default.conf nginx-dev.conf  nginx-prod.conf  nginx-test.conf proxy-settings.conf nginx
+rm nginx
+ls
+cd ..
+ls
+cp nginx src e2e projects /home/ubuntu/
+cp  -rfv nginx src e2e projects /home/ubuntu/
+cd
+cd /home/ubuntu/
+ls
+git init
+cd
+git init
+git clone https://github.com/poonamdangre/devops1234.git
+cp /home/ubuntu/ ./
+cp -rfv  /home/ubuntu/ ./
+ls
+cd ubuntu/
+ls
+cd
+rm -rfv devops-b26/
+ls
+rm -rfv ubuntu/
+ls
+cd devops1234/
+ls
+cd ecom-microfrontend/
+ls
+cd
+cd devops1234/
+ls
+rm ecom-microfrontend/
+rm-rfv  ecom-microfrontend/
+rm -rfv  ecom-microfrontend/
+ls
+rm README.md 
+CD
+cd
+cd /home/ubuntu/
+ls
+cp ./ /root/devops1234/
+cp -rfv  /home/ubuntu/ /root/devops1234/
+cd
+ls
+cd devops1234/
+ls
+cd ubuntu/
+ls
+rm -rfv upgrade.sh 
+cd 
+pwd
+ls
+cd devops1234/
+ls
+rm -rfv ubuntu/
+cd
+cd /home/ubuntu/
+ls
+cd
+ls
+cd devops1234/
+ls
+cp -rfv /home/ubuntu/ ./
+ls
+cd/u
+ls
+cd ubuntu/
+ls
+cd ..
+rm -rfv ubuntu/
+git status
+pwd
+cd
+cd /home/ubuntu/
+ls
+cp Dockerfile README.md docker-compose.yml nginx/ package.json  src/ tsconfig.json  upgrade.sh  /root/devops1234/
+cp -rfv  Dockerfile README.md docker-compose.yml nginx/ package.json  src/ tsconfig.json  upgrade.sh  /root/devops1234/
+cd
+cd devops1234/
+ls
+cd
+cd /home/ubuntu/
+ls
+cp -rfv LICENSE angular.json e2e/ package-lock.json  projects/ tsconfig.base.json  tslint.json  /root/devops1234/
+cd
+ls
+git status
+git add .
+git commit -m "commit two"
+git branch -M main
+git remote add originhttps://github.com/poonamdangre/devops1234.git
+git push -u origin main
+ls
+git push -u origin main
+cd devops1234/
+git push -u origin main
+git status
+git add .
+git commit -m "commit two"
+git branch -M main
+git remote add origin https://github.com/poonamdangre/devops1234.git  
+git push -u origin main
+ls
+pwd
+cd /home/ubuntu/
+ls
+pwd
+cd /home/ubuntu/
+ls
+touch pipeline.groovy
+ls
+cd /var/lib
+cd jenkins/
+ls
+cd workspace/
+ls
+cd
+vi /etc/sudoers
+ls
+cd devops1234/
+ls
+cd
+clear
+ls
+sudo npm i ng-cli
+npm fund
+npm audit
+npm audit fix --force
+sudo npm install
+npm audit
+npm audit fix
+sudo npm i ng-cli
+npm audit fix --force
+sudo npm install
+npm audit fix --force
+sudo npm audit fix --force
+sudo ng build
+ls
+vim node_modules/
